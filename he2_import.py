@@ -11,7 +11,7 @@ import csv
 # exist per default, when a new empty table is created.
 #
 
-password="Radolfzell2600"
+password="13371337"
 
 ct="Content-Type: application/json"
 server="http://griever.pw:8182"
