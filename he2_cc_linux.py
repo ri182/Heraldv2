@@ -148,7 +148,7 @@ for row in csv_f:
 # exist per default, when a new empty table is created.
 #
 
-password = "Radolfzell2600"
+password = "foobar"
 
 ct = "Content-Type: application/json"
 server = "http://griever.pw:8182"
@@ -196,7 +196,7 @@ for row in csv_f:
 # exist per default, when a new empty table is created.
 #
 
-password = "Radolfzell2600"
+password = "foobar"
 
 ct = "Content-Type: application/json"
 server = "http://griever.pw:8182"
